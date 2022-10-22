@@ -1,16 +1,13 @@
-### Hi there 👋
-
-
 ![Imagen decorativa de tu perfil](https://user-images.githubusercontent.com/110680187/197359938-213a52f5-8800-4e2f-a80c-7eabceafcba3.jpg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy </h1>
+<h1 align="center">Hola 👋, Soy Joaquin</h1>
 <h3 align="center">QUE TE APASIONA</h3>
 
 
 - 🔭 ACTUALMENTE TRABAJO EN MI [Portafolio](URL-DEL-PROYECTO)
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN Proximamente en mi Porfolio, En mi repositorio estasn todos ;)
+- 👨‍💻 TODOS MIS PROYECTOS ESTÁN Proximamente en mi Portafolio, En repositorios estan todos igual ;)
 
 - 📫 PUEDES CONTACTARME EN **joaqui222@gmail.com**
 
