@@ -7,45 +7,28 @@
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN Proximamente en mi Portafolio, en repositorios estan todos igual ;)
 
+- 🌱 ESTOY ESTUDIANDO **NextJS y TypeScript**
+
 - 📫 PUEDES CONTACTARME EN **joaqui222@gmail.com**
 
 <h3 align="left">Contáctateme:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/joaquin-de-luca-069152232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" /></a>
-</p>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-de-luca-069152232/)
+
 
 <h3 align="left">Tecnologías:</h3>
-<!-- css -->
 
-
-
-<div> 
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Boots" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" width="40" height="40"/>
-  <img src="https://i.postimg.cc/tgBcRGRm/Mongo-DB-Logo-svg.png" alt="Mongo" width="120" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/7690/7690119.png" alt="React" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</div>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
+![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ReacNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   
   
   
