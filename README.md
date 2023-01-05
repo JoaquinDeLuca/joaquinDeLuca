@@ -3,9 +3,9 @@
 <h1 align="center">Hola 👋, Soy Joaquin</h1>
 
 
-- 🔭 ACTUALMENTE TRABAJO EN MI Portafolio
+<!-- - 🔭 ACTUALMENTE TRABAJO EN MI Portafolio -->
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN Proximamente en mi Portafolio, en repositorios estan todos igual ;)
+- 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN MÍ [PORTFOLIO](https://joaquin-de-luca.vercel.app/) ;)
 
 - 🌱 ESTOY ESTUDIANDO **NextJS y TypeScript**
 
