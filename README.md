@@ -11,7 +11,7 @@
 
 - 📫 PUEDES CONTACTARME EN **joaqui222@gmail.com**
 
-<h3 align="left">Contáctateme:</h3>
+<h3 align="left">Contáctame:</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-de-luca-069152232/)
 
