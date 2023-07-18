@@ -1,4 +1,4 @@
-![Imagen](https://user-images.githubusercontent.com/110680187/197359938-213a52f5-8800-4e2f-a80c-7eabceafcba3.jpg)
+![bg2](https://github.com/JoaquinDeLuca/joaquinDeLuca/assets/110680187/1cdfb268-95e8-4c3c-af44-cba2c9536434)
 
 ## ¡Hola 👋🏽, Soy Joaquin¡
 
