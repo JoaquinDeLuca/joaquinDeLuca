@@ -3,11 +3,11 @@
 ## ¡Hola 👋🏽, Soy Joaquin¡
 
 
-<!-- - 🔭 ACTUALMENTE TRABAJO EN MI Portafolio -->
+<!--- - 🔭 ACTUALMENTE TRABAJO DE MANERA FREELANCE  -->
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN MÍ [PORTFOLIO](https://joaquin-de-luca.vercel.app/) ; )
 
-- 🌱 ESTOY ESTUDIANDO **Figma, Diseño ux-ui y TypeScript**
+<!--- 🌱 ESTOY ESTUDIANDO **Figma, Diseño ux-ui y TypeScript** -->
 
 - 📫 PUEDES CONTACTARME EN **joaqui222@gmail.com**
 
