@@ -3,17 +3,21 @@
 ## ¡Hola 👋🏽, Soy Joaquin¡
 
 
-<!--- - 🔭 ACTUALMENTE TRABAJO DE MANERA FREELANCE  -->
+- 🔭 ACTUALMENTE, ESTOY EN BÚSQUEDA ACTIVA DE UNA NUEVA OPORTUNIDAD LABORAL.
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN MÍ [PORTFOLIO](https://joaquin-de-luca.vercel.app/) ; )
 
 <!--- 🌱 ESTOY ESTUDIANDO **Figma, Diseño ux-ui y TypeScript** -->
 
-- 📫 PUEDES CONTACTARME EN **joaqui222@gmail.com**
+<!--- - 📫 PUEDES CONTACTARME VIA MAIL **joaqui222@gmail.com** | EN MI [L](https://www.linkedin.com/in/joaquin-de-luca-069152232/) -->
 
 ## Contáctame
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-de-luca-069152232/)
+
+[![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaqui222@gmail.com**)
+
+-->
 
 
 ## Tecnologías
