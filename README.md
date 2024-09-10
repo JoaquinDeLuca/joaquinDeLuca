@@ -3,11 +3,11 @@
 ## ¡Hola 👋🏽, Soy Joaquin¡
 
 
-- 🔭 ACTUALMENTE, ESTOY EN BÚSQUEDA ACTIVA DE UNA NUEVA OPORTUNIDAD LABORAL.
+- 🔭 Actualmente, estoy en busca de nuevas oportunidades laborales o proyectos freelance.
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN MÍ [PORTFOLIO](https://joaquin-de-luca.vercel.app/) ; )
+- 👨‍💻 Algunos de mis proyectos más relevantes están en mi [portfolio](https://joaquin-de-luca.vercel.app/)
 
-<!--- 🌱 ESTOY ESTUDIANDO **Figma, Diseño ux-ui y TypeScript** -->
+- 🌱 Estoy profundizando mis habilidades en React Native.
 
 <!--- - 📫 PUEDES CONTACTARME VIA MAIL **joaqui222@gmail.com** | EN MI [L](https://www.linkedin.com/in/joaquin-de-luca-069152232/) -->
 
