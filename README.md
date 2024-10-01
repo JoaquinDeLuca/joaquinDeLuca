@@ -7,7 +7,7 @@
 
 - 👨‍💻 Algunos de mis proyectos más relevantes están en mi [portfolio](https://joaquin-de-luca.vercel.app/)
 
-- 🌱 Estoy profundizando mis habilidades en React Native.
+- 🌱 Estoy profundizando mis habilidades en React Native y además estoy mejorando mi nivel de inglés.
 
 <!--- - 📫 PUEDES CONTACTARME VIA MAIL **joaqui222@gmail.com** | EN MI [L](https://www.linkedin.com/in/joaquin-de-luca-069152232/) -->
 
