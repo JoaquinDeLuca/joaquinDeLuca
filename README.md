@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente, estoy en busca de nuevas oportunidades laborales o proyectos freelance.
 
-- 👨‍💻 Algunos de mis proyectos más relevantes están en mi [portfolio](https://joaquin-de-luca.vercel.app/)
+- 👨‍💻 Algunos de mis proyectos más relevantes están en mi [portfolio](https://joaquin-de-luca.vercel.app/), y allí también puedes encontrar detalles sobre mi experiencia profesional.
 
 - 🌱 Estoy profundizando mis habilidades en React Native y además estoy mejorando mi nivel de inglés.
 
@@ -14,7 +14,6 @@
 ## Contáctame
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-de-luca-069152232/)
-
 [![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaqui222@gmail.com)
 
 
