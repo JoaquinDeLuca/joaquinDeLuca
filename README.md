@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente en búsqueda de **nuevas oportunidades** o proyectos desafiantes.  
 - 💡 Interesado en seguir creciendo hacia roles con mayor **responsabilidad técnica y liderazgo**.  
-- 🌱 Mejorando mi nivel de inglés de forma continua para trabajar en entornos bilingüe.  
+- 🌱 Mejorando mi nivel de inglés de forma continua para trabajar en entornos bilingüe y ampliando mis conocimientos en microservicios y GCP.  
 - 🌐 Podés ver más sobre mí y mis proyectos en mi [Portfolio](https://joaquin-de-luca.vercel.app/).
 
 ## Contáctame
